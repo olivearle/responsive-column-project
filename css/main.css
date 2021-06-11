@@ -65,18 +65,22 @@ footer {
 
   #column-1 {
     background-color: LightGoldenRodYellow;
-  }
+      }
 
   #column-2 {
     background-color: Gold;
-  }
+      }
 
   #column-3 {
     background-color: Orange;
-  }
+    }
 
   footer {
     background-color: SteelBlue;
+  }
+
+  .col-3 {
+    width: 50%;
   }
 
 }
@@ -90,7 +94,7 @@ footer {
 
   #column-1 {
     background-color: cornsilk;
-  }
+      }
 
   #column-2 {
     background-color: burlywood;
@@ -102,6 +106,10 @@ footer {
 
   footer {
     background-color: navy;
+  }
+
+  .col-3 {
+    width: 33.3%;
   }
 
 }
